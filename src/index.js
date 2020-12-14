@@ -1,4 +1,5 @@
 import{createHomePage} from "./pages/mainPage.js";
-createHomePage();
+import{createMenu} from"./pages/menu.js";
+createMenu();
 const container=document.getElementById("content");
 console.log(container);
