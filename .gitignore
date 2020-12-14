@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> c01c4d7e85b2af26fa104cf1826e126e2dc213f4
 npm-debug.log*
 
 # Dependency directories
 node_modules/
-<<<<<<< HEAD
+testPages/
 jspm_packages/
-=======
-jspm_packages/
-
-
->>>>>>> c01c4d7e85b2af26fa104cf1826e126e2dc213f4
